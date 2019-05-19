@@ -5,6 +5,8 @@ new technologies. From using a remote for controlling devices to using voice not
 in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition
 to the pack i.e.__Blockchain Technology.__
 
+A blockchain is a growing list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block a timestamp, and transaction data (generally represented as a Merkle tree). By design, a blockchain is resistant to modification of the data.
+
 __Blockchain__- The revolutionary technology impacting different industries miraculously was introduced in the markets with it's very first modern application _Bitcoin_. Bitcoin is nothing but a form of digital currency (cryptocurrency) which can be used in the place of fiat money for trading. And the underlying technology behind the success of cryptocurrencies is termed as Blockchain.There’s a common
 misconception among people that Bitcoin and Blockchain are one and the same, however, that is not the case.Creating cryptocurrencies is one of the applications of Blockchain technology and other than Bitcoin, there are numerous applications that are being developed based on the blockchain technology.so let's see whtas is blockchain and how it works.
 
