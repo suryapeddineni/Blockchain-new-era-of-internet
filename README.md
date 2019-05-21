@@ -10,5 +10,7 @@ dollars on “the blockchain”.
 In trying to learn more about blockchain, you've probably encountered a definition like _blockchain is a distributed, decentralized, 
 public ledger_." The good news is, blockchain is actually easier to understand than that definition sounds.
 
+>[Introduction to Blockchain](https://github.com/suryapeddineni/Blockchain-new-era-of-internet/blob/master/Introduction.md)
+
 
 __Disclaimer__:The views and opinions expressed here represent my own and not those of my employer.
