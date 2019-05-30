@@ -2,9 +2,6 @@ __Introduction__
 
 The 21st century is all about technology. With the increasing need for modernization in our day-to-day lives, people are open to accepting
 new technologies. 
-From using a remote for controlling devices to using voice notes for giving commands; modern technology has made space 
-in our regular lives. Technologies like augmented reality and IoT that have gained pace in the past decade and now there’s a new addition
-to the pack i.e.__Blockchain Technology.__
 
 A blockchain is a growing list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block a timestamp, and transaction data (generally represented as a Merkle tree). By design, a blockchain is resistant to modification of the data.
 
