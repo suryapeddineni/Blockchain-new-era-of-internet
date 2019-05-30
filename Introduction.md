@@ -8,7 +8,7 @@ A blockchain is a growing list of records, called blocks, which are linked using
 __Blockchain__- The revolutionary technology impacting different industries miraculously was introduced in the markets with it's very first modern application _Bitcoin_. 
 > Bitcoin is nothing but a form of digital currency (cryptocurrency) which can be used in the place of fiat money for trading. And the underlying technology behind the success of cryptocurrencies is termed as Blockchain.
 
-There’s a commonmisconception among people that **Bitcoin** and Blockchain are one and the same, however, that is not the case.Creating cryptocurrencies is one of the applications of Blockchain technology and other than Bitcoin, there are numerous applications that are being developed based on the blockchain technology.so let's see whtas is blockchain and how it works.
+There’s a commonmisconception among people that **Bitcoin** and **Blockchain** are one and the same, however, that is not the case.Creating cryptocurrencies is one of the applications of Blockchain technology and other than Bitcoin, there are numerous applications that are being developed based on the blockchain technology.so let's see whtas is blockchain and how it works.
 
 In the simplest terms, Blockchain can be described as a data structure that holds transactional records and while ensuring security, transparency, and decentralization. You can also think of it as a chain or records stored in the forms of blocks which are controlled by no single authority. A blockchain is a distributed ledger that is completely open to any and everyone on the network. Once an information is stored on a blockchain, it is extremely difficult to change or alter it.
 
